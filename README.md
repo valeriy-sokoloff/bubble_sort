@@ -2,10 +2,10 @@
 
 Implements `bubble_sort` method for Array, and compares it with standart ruby `sort`.
 
-#### Usage:
+### Usage:
 `$ ruby bubble_sort.rb`
 
-#### Sample output:
+### Sample output:
 ``` 
 Sorting of 10000 integers...
        user     system      total        real
